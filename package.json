@@ -1,0 +1,24 @@
+{
+  "name": "shakey",
+  "version": "1.0.0",
+  "description": "hi ihi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidpk/shakey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kidpk/shakey/issues"
+  },
+  "homepage": "https://github.com/kidpk/shakey#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  }
+}
